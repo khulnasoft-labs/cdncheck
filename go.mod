@@ -6,7 +6,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/ipinfo/go/v2 v2.9.4
 	github.com/khulnasoft-lab/goflags v0.1.13
-	github.com/khulnasoft-lab/gologger v1.1.11
+	github.com/khulnasoft-lab/gologger v1.1.12
 	github.com/khulnasoft-lab/mapcidr v1.1.3
 	github.com/khulnasoft-lab/retryabledns v0.0.0-20230722104401-745c1d25618e
 	github.com/khulnasoft-lab/utils v0.0.45
